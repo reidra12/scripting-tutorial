@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://kw6c2wpgppgu"]
+
+[ext_resource type="Script" uid="uid://drhr7mu283g88" path="res://scripts/operator_aritmatika.gd" id="1_rektb"]
+
+[node name="OperatorAritmatika" type="Node2D"]
+script = ExtResource("1_rektb")

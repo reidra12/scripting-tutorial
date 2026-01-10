@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b84c0nnf3q0y6"]
+
+[ext_resource type="Script" uid="uid://cu826ms5xb2n5" path="res://scripts/latihan_eps_4.gd" id="1_ilaaj"]
+
+[node name="latihan_eps4" type="Node2D"]
+script = ExtResource("1_ilaaj")

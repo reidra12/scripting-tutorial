@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b05dvrvy4578x"]
+
+[ext_resource type="Script" uid="uid://br7pax7n24kc1" path="res://scripts/sturan_eksekusi_2.gd" id="1_5fcmu"]
+
+[node name="SturanEksekusi2" type="Node2D"]
+script = ExtResource("1_5fcmu")

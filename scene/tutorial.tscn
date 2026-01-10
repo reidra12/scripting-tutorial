@@ -1,0 +1,18 @@
+[gd_scene load_steps=6 format=3 uid="uid://b8y07c2knwpat"]
+
+[ext_resource type="Script" uid="uid://si1bkjf3luor" path="res://scripts/tutorial.gd" id="1_mqdaa"]
+[ext_resource type="PackedScene" uid="uid://kw6c2wpgppgu" path="res://scene/eps 3/operator_aritmatika.tscn" id="2_mo30s"]
+[ext_resource type="PackedScene" uid="uid://bar6iwkpm6a8t" path="res://scene/eps 3/operator_perbandingan.tscn" id="3_6axd3"]
+[ext_resource type="PackedScene" uid="uid://dks3m6g01m1ii" path="res://scene/eps 3/operator_logika.tscn" id="4_whbp6"]
+[ext_resource type="PackedScene" uid="uid://c05dm1jfk2q76" path="res://scene/eps 3/operator_penugasan.tscn" id="5_otirw"]
+
+[node name="tutorial" type="Node2D"]
+script = ExtResource("1_mqdaa")
+
+[node name="OperatorAritmatika" parent="." instance=ExtResource("2_mo30s")]
+
+[node name="OperatorPerbandingan" parent="." instance=ExtResource("3_6axd3")]
+
+[node name="OperatorLogika" parent="." instance=ExtResource("4_whbp6")]
+
+[node name="OperatorPenugasan" parent="." instance=ExtResource("5_otirw")]

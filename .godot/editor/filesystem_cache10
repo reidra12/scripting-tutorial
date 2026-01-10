@@ -1,0 +1,21 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1768059794
+icon.svg::CompressedTexture2D::2203761650545947534::1761158315::1761158324::1::::<><><>0<>0<>a13fc050388ce8839bdf30668e633be1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://scene/::1768057214
+tutorial.tscn::PackedScene::4753772807298750799::1768057214::0::1::::<><><>0<>0<><>::uid://si1bkjf3luor::::res://scripts/tutorial.gd<>uid://kw6c2wpgppgu::::res://scene/eps 3/operator_aritmatika.tscn<>uid://bar6iwkpm6a8t::::res://scene/eps 3/operator_perbandingan.tscn<>uid://dks3m6g01m1ii::::res://scene/eps 3/operator_logika.tscn<>uid://c05dm1jfk2q76::::res://scene/eps 3/operator_penugasan.tscn
+::res://scene/eps 3/::1768056631
+operator_aritmatika.tscn::PackedScene::749191998139516628::1763546557::0::1::::<><><>0<>0<><>::uid://drhr7mu283g88::::res://scripts/operator_aritmatika.gd
+operator_logika.tscn::PackedScene::7900032431020836000::1763546567::0::1::::<><><>0<>0<><>::uid://cl088lkhvd8r1::::res://scripts/operator_logika.gd
+operator_penugasan.tscn::PackedScene::6589698751215927927::1763546573::0::1::::<><><>0<>0<><>::uid://bn85ap0gy5wns::::res://scripts/operator_penugasan.gd
+operator_perbandingan.tscn::PackedScene::2423412790299651085::1763546562::0::1::::<><><>0<>0<><>::uid://cdgkdgtke5pjc::::res://scripts/operator_perbandingan.gd
+::res://scene/eps 4/::1768058603
+aturan_eksekusi_1.tscn::PackedScene::698775506081224281::1768057223::0::1::::<><><>0<>0<><>::uid://tvgn0lhosfgd::::res://scripts/aturan_eksekusi_1.gd
+sturan_eksekusi_2.tscn::PackedScene::4203293686384272505::1768058603::0::1::::<><><>0<>0<><>::uid://br7pax7n24kc1::::res://scripts/sturan_eksekusi_2.gd
+::res://scripts/::1768058603
+aturan_eksekusi_1.gd::GDScript::1377328809649305331::1768056856::0::1::::<>Node2D<><>0<>0<><>::
+operator_aritmatika.gd::GDScript::8368013033934512875::1767459557::0::1::::<>Node2D<><>0<>0<><>::
+operator_logika.gd::GDScript::5598591276767371048::1767459514::0::1::::<>Node2D<><>0<>0<><>::
+operator_penugasan.gd::GDScript::3368822453430740756::1767459492::0::1::::<>Node2D<><>0<>0<><>::
+operator_perbandingan.gd::GDScript::4996407037086318368::1767459548::0::1::::<>Node2D<><>0<>0<><>::
+sturan_eksekusi_2.gd::GDScript::3646603126659749054::1768058603::0::1::::<>Node2D<><>0<>0<><>::
+tutorial.gd::GDScript::1281495174524685749::1763509565::0::1::::<>Node2D<><>0<>0<><>::

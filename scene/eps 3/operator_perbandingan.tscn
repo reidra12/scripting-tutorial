@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bar6iwkpm6a8t"]
+
+[ext_resource type="Script" uid="uid://cdgkdgtke5pjc" path="res://scripts/operator_perbandingan.gd" id="1_f6ktl"]
+
+[node name="OperatorPerbandingan" type="Node2D"]
+script = ExtResource("1_f6ktl")
