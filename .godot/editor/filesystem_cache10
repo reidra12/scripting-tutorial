@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1768240158
+::res://::1768932158
 icon.svg::CompressedTexture2D::2203761650545947534::1761158315::1761158324::1::::<><><>0<>0<>a13fc050388ce8839bdf30668e633be1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://scene/::1768199677
 tutorial.tscn::PackedScene::4753772807298750799::1768057214::0::1::::<><><>0<>0<><>::uid://si1bkjf3luor::::res://scripts/tutorial.gd<>uid://kw6c2wpgppgu::::res://scene/eps 3/operator_aritmatika.tscn<>uid://bar6iwkpm6a8t::::res://scene/eps 3/operator_perbandingan.tscn<>uid://dks3m6g01m1ii::::res://scene/eps 3/operator_logika.tscn<>uid://c05dm1jfk2q76::::res://scene/eps 3/operator_penugasan.tscn
@@ -8,15 +8,15 @@ operator_aritmatika.tscn::PackedScene::749191998139516628::1763546557::0::1::::<
 operator_logika.tscn::PackedScene::7900032431020836000::1763546567::0::1::::<><><>0<>0<><>::uid://cl088lkhvd8r1::::res://scripts/operator_logika.gd
 operator_penugasan.tscn::PackedScene::6589698751215927927::1763546573::0::1::::<><><>0<>0<><>::uid://bn85ap0gy5wns::::res://scripts/operator_penugasan.gd
 operator_perbandingan.tscn::PackedScene::2423412790299651085::1763546562::0::1::::<><><>0<>0<><>::uid://cdgkdgtke5pjc::::res://scripts/operator_perbandingan.gd
-::res://scene/eps 4/::1768061402
-aturan_eksekusi_1.tscn::PackedScene::698775506081224281::1768057223::0::1::::<><><>0<>0<><>::uid://tvgn0lhosfgd::::res://scripts/aturan_eksekusi_1.gd
+::res://scene/eps 4/::1768243449
+aturan_eksekusi_1.tscn::PackedScene::698775506081224281::1768243449::0::1::::<><><>0<>0<><>::uid://tvgn0lhosfgd::::res://scripts/aturan_eksekusi_1.gd
 latihan_eps_4.tscn::PackedScene::4762686260600320979::1768061402::0::1::::<><><>0<>0<><>::uid://cu826ms5xb2n5::::res://scripts/latihan_eps_4.gd
 sturan_eksekusi_2.tscn::PackedScene::4203293686384272505::1768060585::0::1::::<><><>0<>0<><>::uid://br7pax7n24kc1::::res://scripts/sturan_eksekusi_2.gd
-::res://scene/eps 5/::1768201225
-contoh_script_1.tscn::PackedScene::2751703032290779072::1768201225::0::1::::<><><>0<>0<><>::uid://v7rtm4kgwa4v::::res://scripts/contoh script.gd
-::res://scripts/::1768201162
-aturan_eksekusi_1.gd::GDScript::1377328809649305331::1768201152::0::1::::<>Node2D<><>0<>0<><>::
-contoh script.gd::GDScript::1541092599032583551::1768201162::0::1::::<>Node<><>0<>0<><>::
+::res://scene/eps 5/::1768243534
+contoh_script_1.tscn::PackedScene::2751703032290779072::1768243534::0::1::::<><><>0<>0<><>::uid://v7rtm4kgwa4v::::res://scripts/contoh script.gd
+::res://scripts/::1768243525
+aturan_eksekusi_1.gd::GDScript::1377328809649305331::1768243432::0::1::::<>Node2D<><>0<>0<><>::
+contoh script.gd::GDScript::1541092599032583551::1768243525::0::1::::<>Node<><>0<>0<><>::
 latihan_eps_4.gd::GDScript::6246438083927119356::1768061402::0::1::::<>Node2D<><>0<>0<><>::
 operator_aritmatika.gd::GDScript::8368013033934512875::1767459557::0::1::::<>Node2D<><>0<>0<><>::
 operator_logika.gd::GDScript::5598591276767371048::1767459514::0::1::::<>Node2D<><>0<>0<><>::

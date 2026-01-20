@@ -1,4 +1,5 @@
-res://scripts/contoh script.gd
-res://scene/eps 4/aturan_eksekusi_1.tscn
+res://scene/eps 6/while_loops.tscn
+res://scripts/while_loops.gd
+res://scene/eps 6/for_loops.tscn
+res://for_loops.gd
 res://scripts/aturan_eksekusi_1.gd
-res://scene/eps 5/contoh_script_1.tscn
