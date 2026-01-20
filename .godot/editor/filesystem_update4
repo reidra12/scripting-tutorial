@@ -1,5 +1,3 @@
-res://scene/eps 6/while_loops.tscn
-res://scripts/while_loops.gd
 res://scene/eps 6/for_loops.tscn
-res://for_loops.gd
-res://scripts/aturan_eksekusi_1.gd
+res://scene/eps 6/mini_project_ep_6.tscn
+res://scripts/mini_project_ep_6.gd

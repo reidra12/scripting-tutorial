@@ -1,7 +1,8 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1768932158
+::res://::1768933012
+for_loops.gd::GDScript::210839044481939914::1768932490::0::1::::<>Node2D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::2203761650545947534::1761158315::1761158324::1::::<><><>0<>0<>a13fc050388ce8839bdf30668e633be1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://scene/::1768199677
+::res://scene/::1768932184
 tutorial.tscn::PackedScene::4753772807298750799::1768057214::0::1::::<><><>0<>0<><>::uid://si1bkjf3luor::::res://scripts/tutorial.gd<>uid://kw6c2wpgppgu::::res://scene/eps 3/operator_aritmatika.tscn<>uid://bar6iwkpm6a8t::::res://scene/eps 3/operator_perbandingan.tscn<>uid://dks3m6g01m1ii::::res://scene/eps 3/operator_logika.tscn<>uid://c05dm1jfk2q76::::res://scene/eps 3/operator_penugasan.tscn
 ::res://scene/eps 3/::1768056631
 operator_aritmatika.tscn::PackedScene::749191998139516628::1763546557::0::1::::<><><>0<>0<><>::uid://drhr7mu283g88::::res://scripts/operator_aritmatika.gd
@@ -14,8 +15,11 @@ latihan_eps_4.tscn::PackedScene::4762686260600320979::1768061402::0::1::::<><><>
 sturan_eksekusi_2.tscn::PackedScene::4203293686384272505::1768060585::0::1::::<><><>0<>0<><>::uid://br7pax7n24kc1::::res://scripts/sturan_eksekusi_2.gd
 ::res://scene/eps 5/::1768243534
 contoh_script_1.tscn::PackedScene::2751703032290779072::1768243534::0::1::::<><><>0<>0<><>::uid://v7rtm4kgwa4v::::res://scripts/contoh script.gd
-::res://scripts/::1768243525
-aturan_eksekusi_1.gd::GDScript::1377328809649305331::1768243432::0::1::::<>Node2D<><>0<>0<><>::
+::res://scene/eps 6/::1768932754
+for_loops.tscn::PackedScene::4264592475986184741::1768933034::0::1::::<><><>0<>0<><>::uid://daequoruxa23::::res://for_loops.gd
+while_loops.tscn::PackedScene::4033192266051230639::1768932754::0::1::::<><><>0<>0<><>::uid://wu22ll8nimcw::::res://scripts/while_loops.gd
+::res://scripts/::1768932523
+aturan_eksekusi_1.gd::GDScript::1377328809649305331::1768932523::0::1::::<>Node2D<><>0<>0<><>::
 contoh script.gd::GDScript::1541092599032583551::1768243525::0::1::::<>Node<><>0<>0<><>::
 latihan_eps_4.gd::GDScript::6246438083927119356::1768061402::0::1::::<>Node2D<><>0<>0<><>::
 operator_aritmatika.gd::GDScript::8368013033934512875::1767459557::0::1::::<>Node2D<><>0<>0<><>::
@@ -24,3 +28,4 @@ operator_penugasan.gd::GDScript::3368822453430740756::1767459492::0::1::::<>Node
 operator_perbandingan.gd::GDScript::4996407037086318368::1767459548::0::1::::<>Node2D<><>0<>0<><>::
 sturan_eksekusi_2.gd::GDScript::3646603126659749054::1768200927::0::1::::<>Node2D<><>0<>0<><>::
 tutorial.gd::GDScript::1281495174524685749::1763509565::0::1::::<>Node2D<><>0<>0<><>::
+while_loops.gd::GDScript::1587130286624804602::1768932333::0::1::::<>Node2D<><>0<>0<><>::
