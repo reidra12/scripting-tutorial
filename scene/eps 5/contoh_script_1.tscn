@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bfg7e83jd0tgq"]
+
+[ext_resource type="Script" uid="uid://v7rtm4kgwa4v" path="res://scripts/contoh script.gd" id="1_thrg2"]
+
+[node name="contoh_script_1" type="Node2D"]
+script = ExtResource("1_thrg2")

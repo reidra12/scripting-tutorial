@@ -1,4 +1,4 @@
-res://scene/eps 4/sturan_eksekusi_2.tscn
-res://scripts/sturan_eksekusi_2.gd
-res://scene/eps 4/latihan_eps_4.tscn
-res://scripts/latihan_eps_4.gd
+res://scripts/contoh script.gd
+res://scene/eps 4/aturan_eksekusi_1.tscn
+res://scripts/aturan_eksekusi_1.gd
+res://scene/eps 5/contoh_script_1.tscn
