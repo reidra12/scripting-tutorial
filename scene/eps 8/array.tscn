@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bw5y3nn6soil3"]
+
+[ext_resource type="Script" uid="uid://bsjqcj0vl2b6f" path="res://scripts/array_eps8.gd" id="1_j2rti"]
+
+[node name="array" type="Node2D" unique_id=117474433]
+script = ExtResource("1_j2rti")

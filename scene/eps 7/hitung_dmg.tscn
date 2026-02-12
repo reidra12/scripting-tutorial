@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cp0n31dte3hpw"]
+
+[ext_resource type="Script" uid="uid://b3hygk4mahrt3" path="res://scripts/eps_7.gd" id="1_hiv4v"]
+
+[node name="hitung_dmg" type="Node2D" unique_id=1549559712]
+script = ExtResource("1_hiv4v")
