@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c3cmm0lqaan7f"]
+
+[ext_resource type="Script" uid="uid://bsejjsd18c1t1" path="res://scene/eps 6/mini_project_eps_6.gd" id="1_ogjqe"]
+
+[node name="mini_project_eps6" type="Node2D" unique_id=547043178]
+script = ExtResource("1_ogjqe")

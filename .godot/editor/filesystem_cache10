@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1770874039
+::res://::1770875062
 for_loops.gd::GDScript::210839044481939914::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::2203761650545947534::1770679179::1770679179::1::::<><><>0<>0<>a13fc050388ce8839bdf30668e633be1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://scene/::1770871241
@@ -20,10 +20,10 @@ for_loops.tscn::PackedScene::4264592475986184741::1770679179::0::1::::<><><>0<>0
 while_loops.tscn::PackedScene::4033192266051230639::1770699193::0::1::::<><><>0<>0<><>::uid://wu22ll8nimcw::::res://scripts/while_loops.gd
 ::res://scene/eps 7/::1770871223
 hitung_dmg.tscn::PackedScene::5878124160054727920::1770871223::0::1::::<><><>0<>0<><>::uid://b3hygk4mahrt3::::res://scripts/eps_7.gd
-::res://scene/eps 8/::1770873846
-array.tscn::PackedScene::3994014490726460386::1770873846::0::1::::<><><>0<>0<><>::
-::res://scripts/::1770874021
-array_eps8.gd::GDScript::3669374824736463887::1770874021::0::1::::<>Node2D<><>0<>0<><>::
+::res://scene/eps 8/::1770874961
+array.tscn::PackedScene::3994014490726460386::1770874961::0::1::::<><><>0<>0<><>::uid://bsjqcj0vl2b6f::::res://scripts/array_eps8.gd
+::res://scripts/::1770874945
+array_eps8.gd::GDScript::3669374824736463887::1770874945::0::1::::<>Node2D<><>0<>0<><>::
 aturan_eksekusi_1.gd::GDScript::1377328809649305331::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 contoh script.gd::GDScript::1541092599032583551::1770679179::0::1::::<>Node<><>0<>0<><>::
 eps_7.gd::GDScript::4367627443004600798::1770707115::0::1::::<>Node2D<><>0<>0<><>::
