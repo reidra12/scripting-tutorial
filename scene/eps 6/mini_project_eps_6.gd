@@ -11,6 +11,7 @@ func _ready():
 
 		player_health -= 40
 		print("Health:", player_health)
+		print("")
 
 		if player_health <= 0 and potions > 0:
 			print("Menggunakan potion...")
