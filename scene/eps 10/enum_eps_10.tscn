@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://blkaf3iyt4i7t"]
+
+[ext_resource type="Script" uid="uid://baonobaw4q54q" path="res://scripts/enum_eps_10.gd" id="1_wb7a4"]
+
+[node name="enum_eps_10" type="Node2D" unique_id=758689020]
+script = ExtResource("1_wb7a4")

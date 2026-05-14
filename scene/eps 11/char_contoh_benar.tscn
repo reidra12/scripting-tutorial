@@ -1,0 +1,33 @@
+[gd_scene format=3 uid="uid://druitdy7221k4"]
+
+[ext_resource type="Script" uid="uid://p47350na2kyy" path="res://scene/eps 11/Player.gd" id="1_p7ftq"]
+[ext_resource type="Texture2D" uid="uid://6nrvrcjoybri" path="res://icon.svg" id="2_dri57"]
+[ext_resource type="Script" uid="uid://cuuxbpg13hvdy" path="res://scene/eps 11/dash_component.gd" id="3_dri57"]
+[ext_resource type="Script" uid="uid://0e2cpap4ujkt" path="res://scene/eps 11/gravity_component.gd" id="4_5e2ug"]
+[ext_resource type="Script" uid="uid://h3m2qn6xqgfj" path="res://scene/eps 11/jump_component.gd" id="5_3meq3"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_mbyr0"]
+size = Vector2(122, 120)
+
+[node name="char_contoh_benar" type="CharacterBody2D" unique_id=466055562]
+script = ExtResource("1_p7ftq")
+speed = null
+jump_velocity = null
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=2050695167]
+texture = ExtResource("2_dri57")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1803548539]
+shape = SubResource("RectangleShape2D_mbyr0")
+
+[node name="DashComponent" type="Node" parent="." unique_id=11233097]
+script = ExtResource("3_dri57")
+metadata/_custom_type_script = "uid://cuuxbpg13hvdy"
+
+[node name="GravityComponent" type="Node" parent="." unique_id=61644884]
+script = ExtResource("4_5e2ug")
+metadata/_custom_type_script = "uid://0e2cpap4ujkt"
+
+[node name="JumpComponent" type="Node" parent="." unique_id=2064173947]
+script = ExtResource("5_3meq3")
+metadata/_custom_type_script = "uid://h3m2qn6xqgfj"

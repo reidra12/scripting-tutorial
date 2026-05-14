@@ -5,12 +5,16 @@ var party: Array = []
 
 func _ready():
 	print("=== GAME START ===")
-	add_item("Potion")
+	add_item("potion")
 	add_item("Sword")
 	add_item("Shield")
 	show_inventory()
 	remove_item("Shield")
+	remove_item("armor")
 	show_inventory()
+	print("=== GAME ENDED ===")
+
+#Inventory ==================================================
 
 func add_item(item_name: String):
 	inventory.append(item_name)
@@ -24,6 +28,7 @@ func remove_item(item_name: String):
 		print("Item not found!")
 
 func show_inventory():
+	print("----------------")
 	print("Inventory:")
 	for i in inventory:
 		print("-", i)
@@ -40,7 +45,6 @@ func add_to_teammate(character_name: String):
 	if party.size() >= 3:
 		print("Party full!")
 		return
-	
 	party.append(character_name)
 	print(character_name + " joined the party!")
 

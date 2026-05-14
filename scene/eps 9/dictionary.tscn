@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cf3tbdelco0fm"]
+
+[ext_resource type="Script" uid="uid://d32wauuafwkk7" path="res://scripts/dictionary_eps9.gd" id="1_c2urt"]
+
+[node name="Dictionary" type="Node2D" unique_id=633789831]
+script = ExtResource("1_c2urt")

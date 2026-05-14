@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://dj8mngubn3w0b"]
+
+[ext_resource type="Script" uid="uid://csikcpl3ua35b" path="res://scene/eps 11/character.gd" id="1_21pw0"]
+[ext_resource type="Texture2D" uid="uid://6nrvrcjoybri" path="res://icon.svg" id="2_aakqa"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_mbyr0"]
+size = Vector2(122, 120)
+
+[node name="char_contoh_salah" type="CharacterBody2D" unique_id=466055562]
+script = ExtResource("1_21pw0")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=2050695167]
+texture = ExtResource("2_aakqa")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1803548539]
+shape = SubResource("RectangleShape2D_mbyr0")

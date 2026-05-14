@@ -1,0 +1,29 @@
+[gd_scene format=3 uid="uid://bmhhaopiosjih"]
+
+[ext_resource type="Script" uid="uid://cumxsbxj56dmk" path="res://addons/block_code/block_code_node/block_code.gd" id="1_q6r6c"]
+[ext_resource type="Script" uid="uid://brx1cabdmgu38" path="res://addons/block_code/serialization/block_serialization_tree.gd" id="2_kdubu"]
+[ext_resource type="Script" uid="uid://u035wsjd5tpj" path="res://addons/block_code/serialization/block_serialization.gd" id="3_d21ai"]
+[ext_resource type="Script" uid="uid://tlsvrkc3fubl" path="res://addons/block_code/serialization/block_script_serialization.gd" id="4_rj586"]
+[ext_resource type="Script" uid="uid://bwkinr8omutpw" path="res://addons/block_code/code_generation/variable_definition.gd" id="5_4d7sh"]
+
+[sub_resource type="Resource" id="Resource_ir8iy"]
+script = ExtResource("3_d21ai")
+name = &"ready"
+
+[sub_resource type="Resource" id="Resource_hqns4"]
+script = ExtResource("2_kdubu")
+root = SubResource("Resource_ir8iy")
+canvas_position = Vector2(54, 47)
+
+[sub_resource type="Resource" id="Resource_x0ka3"]
+script = ExtResource("4_rj586")
+script_inherits = "Node2D"
+block_serialization_trees = Array[ExtResource("2_kdubu")]([SubResource("Resource_hqns4")])
+generated_script = "extends Node2D"
+
+[node name="Node2D" type="Node2D" unique_id=1621261883]
+
+[node name="BlockCode" type="Node" parent="." unique_id=1033187933]
+script = ExtResource("1_q6r6c")
+block_script = SubResource("Resource_x0ka3")
+metadata/_custom_type_script = "uid://cumxsbxj56dmk"

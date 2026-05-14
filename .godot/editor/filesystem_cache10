@@ -1,8 +1,10 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1770875062
+::res://::1778789800
 for_loops.gd::GDScript::210839044481939914::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::2203761650545947534::1770679179::1770679179::1::::<><><>0<>0<>a13fc050388ce8839bdf30668e633be1<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-::res://scene/::1770871241
+node_2d.gd::GDScript::6284343779163778180::1778782002::0::1::::<>CharacterBody2D<><>0<>0<><>::
+node_2d.tscn::PackedScene::3243563229459151851::1778100962::0::1::::<><><>0<>0<><>::uid://cumxsbxj56dmk::::res://addons/block_code/block_code_node/block_code.gd<>uid://brx1cabdmgu38::::res://addons/block_code/serialization/block_serialization_tree.gd<>uid://u035wsjd5tpj::::res://addons/block_code/serialization/block_serialization.gd<>uid://tlsvrkc3fubl::::res://addons/block_code/serialization/block_script_serialization.gd<>uid://bwkinr8omutpw::::res://addons/block_code/code_generation/variable_definition.gd
+::res://scene/::1778789800
 tutorial.tscn::PackedScene::4753772807298750799::1770679179::0::1::::<><><>0<>0<><>::uid://si1bkjf3luor::::res://scripts/tutorial.gd<>uid://kw6c2wpgppgu::::res://scene/eps 3/operator_aritmatika.tscn<>uid://bar6iwkpm6a8t::::res://scene/eps 3/operator_perbandingan.tscn<>uid://dks3m6g01m1ii::::res://scene/eps 3/operator_logika.tscn<>uid://c05dm1jfk2q76::::res://scene/eps 3/operator_penugasan.tscn
 ::res://scene/eps 3/::1770679179
 operator_aritmatika.tscn::PackedScene::749191998139516628::1770679179::0::1::::<><><>0<>0<><>::uid://drhr7mu283g88::::res://scripts/operator_aritmatika.gd
@@ -15,24 +17,42 @@ latihan_eps_4.tscn::PackedScene::4762686260600320979::1770679179::0::1::::<><><>
 sturan_eksekusi_2.tscn::PackedScene::4203293686384272505::1770679179::0::1::::<><><>0<>0<><>::uid://br7pax7n24kc1::::res://scripts/sturan_eksekusi_2.gd
 ::res://scene/eps 5/::1770679179
 contoh_script_1.tscn::PackedScene::2751703032290779072::1770679179::0::1::::<><><>0<>0<><>::uid://v7rtm4kgwa4v::::res://scripts/contoh script.gd
-::res://scene/eps 6/::1770699193
+::res://scene/eps 6/::1770898585
 for_loops.tscn::PackedScene::4264592475986184741::1770679179::0::1::::<><><>0<>0<><>::uid://daequoruxa23::::res://for_loops.gd
+mini_project_eps_6.gd::GDScript::3658640856554210600::1770875420::0::1::::<>Node2D<><>0<>0<><>::
+mini_project_eps_6.tscn::PackedScene::6743009109002869817::1770898585::0::1::::<><><>0<>0<><>::uid://bsejjsd18c1t1::::res://scene/eps 6/mini_project_eps_6.gd
 while_loops.tscn::PackedScene::4033192266051230639::1770699193::0::1::::<><><>0<>0<><>::uid://wu22ll8nimcw::::res://scripts/while_loops.gd
 ::res://scene/eps 7/::1770871223
 hitung_dmg.tscn::PackedScene::5878124160054727920::1770871223::0::1::::<><><>0<>0<><>::uid://b3hygk4mahrt3::::res://scripts/eps_7.gd
-::res://scene/eps 8/::1770874961
-array.tscn::PackedScene::3994014490726460386::1770874961::0::1::::<><><>0<>0<><>::uid://bsjqcj0vl2b6f::::res://scripts/array_eps8.gd
-::res://scripts/::1770874945
-array_eps8.gd::GDScript::3669374824736463887::1770874945::0::1::::<>Node2D<><>0<>0<><>::
+::res://scene/eps 8/::1772908684
+array.tscn::PackedScene::3994014490726460386::1771549762::0::1::::<><><>0<>0<><>::uid://bsjqcj0vl2b6f::::res://scripts/array_eps8.gd
+mini_project_eps_8.tscn::PackedScene::8996814256261037825::1772908684::0::1::::<><><>0<>0<><>::uid://bdkm7v0xkrcvg::::res://scripts/mini_project_eps_8.gd
+::res://scene/eps 9/::1773788500
+dictionary.tscn::PackedScene::5182743735598815242::1773162640::0::1::::<><><>0<>0<><>::uid://d32wauuafwkk7::::res://scripts/dictionary_eps9.gd
+mini_project_eps_9.tscn::PackedScene::5413781610290237477::1773788500::0::1::::<><><>0<>0<><>::uid://b55tre8xafhnr::::res://scripts/mini_project_eps_9.gd
+::res://scene/eps 10/::1774118720
+enum_eps_10.tscn::PackedScene::3179152154350809611::1774118720::0::1::::<><><>0<>0<><>::uid://baonobaw4q54q::::res://scripts/enum_eps_10.gd
+::res://scene/eps 11/::1778789885
+character.gd::GDScript::6053367122560790381::1778789784::0::1::::<>CharacterBody2D<><>0<>0<><>::
+char_contoh_salah.tscn::PackedScene::7859838275039652219::1778789851::0::1::::<><><>0<>0<><>::uid://csikcpl3ua35b::::res://scene/eps 11/character.gd<>uid://6nrvrcjoybri::::res://icon.svg
+level.tscn::PackedScene::400808957240217311::1778789800::0::1::::<><><>0<>0<><>::uid://6nrvrcjoybri::::res://icon.svg<>uid://dj8mngubn3w0b::::res://scene/eps 11/char_contoh_salah.tscn
+char_contoh_benar.tscn::PackedScene::8394279810169836641::1778789968::0::1::::<><><>0<>0<><>::uid://p47350na2kyy::::res://scene/eps 11/char_contoh_benar.gd<>uid://6nrvrcjoybri::::res://icon.svg
+char_contoh_benar.gd::GDScript::1114694170348432040::1778789942::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+::res://scripts/::1774118720
+array_eps8.gd::GDScript::3669374824736463887::1771549762::0::1::::<>Node2D<><>0<>0<><>::
 aturan_eksekusi_1.gd::GDScript::1377328809649305331::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 contoh script.gd::GDScript::1541092599032583551::1770679179::0::1::::<>Node<><>0<>0<><>::
+dictionary_eps9.gd::GDScript::9181624727515335580::1773162640::0::1::::<>Node2D<><>0<>0<><>::
+enum_eps_10.gd::GDScript::2416136347832918258::1774118720::0::1::::<>Node2D<><>0<>0<><>::
 eps_7.gd::GDScript::4367627443004600798::1770707115::0::1::::<>Node2D<><>0<>0<><>::
 latihan_eps_4.gd::GDScript::6246438083927119356::1770679179::0::1::::<>Node2D<><>0<>0<><>::
+mini_project_eps_8.gd::GDScript::2618417884135462944::1772908507::0::1::::<>Node2D<><>0<>0<><>::
+mini_project_eps_9.gd::GDScript::4555201568931978031::1773788500::0::1::::<>Node<><>0<>0<><>::
 operator_aritmatika.gd::GDScript::8368013033934512875::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 operator_logika.gd::GDScript::5598591276767371048::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 operator_penugasan.gd::GDScript::3368822453430740756::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 operator_perbandingan.gd::GDScript::4996407037086318368::1770679179::0::1::::<>Node2D<><>0<>0<><>::
-script_canvas.gd::GDScript::4853554223328591773::1770698989::0::1::::<>Node<><>0<>0<><>::
+script_canvas.gd::GDScript::4853554223328591773::1771484601::0::1::::<>Node<><>0<>0<><>::
 sturan_eksekusi_2.gd::GDScript::3646603126659749054::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 tutorial.gd::GDScript::1281495174524685749::1770679179::0::1::::<>Node2D<><>0<>0<><>::
 while_loops.gd::GDScript::1587130286624804602::1770679179::0::1::::<>Node2D<><>0<>0<><>::

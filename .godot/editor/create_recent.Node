@@ -1,1 +1,7 @@
+res://scene/eps 11/jump_component.gd
+CharacterBody2D
+Sprite2D
+CollisionShape2D
+StaticBody2D
+EditorPlugin
 Node2D

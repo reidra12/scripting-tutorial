@@ -3,21 +3,24 @@ extends Node2D
 var enemies = ["goblin", "orc", "dragon"]
 
 func _ready() -> void:
-	menambah_dan_menghapus_array()
+	mengubah_data_dalam_array()
 
 func mengakses_data_array():
+	#tulis nomor index yang ingin diakses
 	print(enemies[0])
 
 func menambah_dan_menghapus_array():
+	# deklarasi nama array lalu tambahkan perintah .append() 
 	enemies.append("slime")
 	print(enemies)
 	enemies.erase("goblin")
 	print(enemies)
 
 func mengubah_data_dalam_array():
+	#deklarasi indeksnya, lalu tambahkan nilai baru 
 	enemies[0] = "slime"
 	print(enemies)
 
 func mengenal_index_array():
 	for enemy in enemies:
-		print("index ",enemies.find(enemy), " :", enemy)
+		print("index ",enemies.find(enemy), " : ", enemy)

@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://fyfjakiybeyx"]
+
+[ext_resource type="Texture2D" uid="uid://6nrvrcjoybri" path="res://icon.svg" id="1_nt0qi"]
+[ext_resource type="PackedScene" uid="uid://druitdy7221k4" path="res://scene/eps 11/char_contoh_benar.tscn" id="2_ki6re"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_i7uie"]
+size = Vector2(1498, 34)
+
+[node name="Level" type="Node2D" unique_id=1985434194]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1003318744]
+position = Vector2(465, 650)
+
+[node name="Sprite2D" type="Sprite2D" parent="StaticBody2D" unique_id=1309300346]
+scale = Vector2(11.6875, 0.28125)
+texture = ExtResource("1_nt0qi")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=1233505955]
+shape = SubResource("RectangleShape2D_i7uie")
+
+[node name="char_contoh_benar" parent="." unique_id=466055562 instance=ExtResource("2_ki6re")]
+position = Vector2(555, 246)
